@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "345",
+      "author": "345",
+      "category": "Fiction",
+      "isbn": 34,
+      "id": 1
+    },
+    {
+      "title": "345",
+      "author": "3245",
+      "category": "Fiction",
+      "isbn": 345,
+      "id": 2
+    }
+  ]
+}
